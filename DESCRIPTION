@@ -8,7 +8,7 @@ Imports: survival (>= 3.1-12), pROC (>= 1.16.2), rms (>= 6.1-0), mice
 Suggests: foreign (>= 0.8-80), knitr, rmarkdown, testthat (>= 3.0.0),
         bookdown, readr
 Title: Data and Statistical Analyses after Multiple Imputation
-Version: 0.1.0
+Version: 0.5.0
 Authors@R: c(
    person("Martijn", "Heymans", email = "mw.heymans@amsterdamumc.nl", role=c("cre", "aut"),
    comment = c(ORCID = "0000-0002-3889-0921")),
@@ -29,16 +29,16 @@ Description:
 	 Grund (2021) <doi:10.31234/osf.io/d459g>.
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.0
 License: GPL (>= 2)
 URL: https://mwheymans.github.io/miceafter/
 BugReports: https://github.com/mwheymans/miceafter/issues
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-12-15 20:41:40 UTC; mwhey
+Packaged: 2022-10-02 13:09:22 UTC; mwhey
 Author: Martijn Heymans [cre, aut] (<https://orcid.org/0000-0002-3889-0921>),
   Jaap Brand [ctb]
 Maintainer: Martijn Heymans <mw.heymans@amsterdamumc.nl>
 Repository: CRAN
-Date/Publication: 2021-12-16 10:10:02 UTC
+Date/Publication: 2022-10-02 13:30:02 UTC
